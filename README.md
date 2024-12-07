@@ -83,8 +83,7 @@ AutoGitUtils.del_folder_subfol(disk="D", path="D:/projects", folder="old_folder"
 ---
 
 ## **License**  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
-
+This project is licensed under the MIT License.
 ---
 
 **Happy Coding with AutoGitPy! 🚀**  
