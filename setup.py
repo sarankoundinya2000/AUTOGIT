@@ -4,9 +4,9 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="autogit-Saran_Abhilash", # Replace with your own username
+    name="autogit-Saran", # Replace with your own username
     version="0.0.1",
-    author="Saran,Abhilash,Abhiraman,Tarun"
+    author="Saran"
     
     description="A package which automates the process of git",
     long_description=long_description,
